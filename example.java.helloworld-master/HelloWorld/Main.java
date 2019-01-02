@@ -1,4 +1,4 @@
-//package HelloWorld;
+package HelloWorld;
 
 public class Main
 {
@@ -7,3 +7,4 @@ public class Main
         System.out.println("Hello world 1234");
     }
 }
+
